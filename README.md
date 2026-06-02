@@ -60,6 +60,8 @@ Currently working as an FP&A Analyst while building automation solutions that sa
 
 ## 🔥 Featured Projects
 
+Coming Soon...
+
 ### 📊 FP&A Dashboard
 
 Budget vs Actual analysis dashboard built using Power BI and Excel.
